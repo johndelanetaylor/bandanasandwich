@@ -1,0 +1,47 @@
+nav {
+    display: block;
+    height: 100px;
+}
+.logo {
+    display: inline-block;
+    float: left;
+    padding: 35px 0 0 0;
+}
+nav ul {
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    float: right;
+    padding: 35px 0 0 35px;
+}
+nav a {
+	color: #999999;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #ffffff;
+}
+html {
+	background: url("../images/sp.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+body {
+	background-color: rgba(0, 0, 0, 0.85);
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.hero {
+	color: #fff;
+	margin: 20% 0 0 0;
+	text-align: center;
+}
+.hero input {
+	color: #999999;
+}
