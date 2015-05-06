@@ -1,5 +1,5 @@
 /* <button type="button" onclick="document.getElementById('hooray').style.color = '#0000FF'">Submit</button> */
-<script>
+/* <script>
 
     document.getElementById('confetti').onclick = changeColor;   
 
@@ -8,4 +8,4 @@
         return false;
     }   
 
-</script>
+</script> */
